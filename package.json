@@ -1,0 +1,16 @@
+{
+  "name": "automation-ouvidoria-front-cypress",
+  "version": "1.0.0",
+  "description": "![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
