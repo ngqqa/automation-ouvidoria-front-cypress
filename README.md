@@ -4,11 +4,10 @@
 
 ![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)
 
-Projeto de automação de testes para API com Cypress.
+Projeto de automação de testes para front-end com Cypress.
 
 ## ATENÇÃO
-O diretorio "Cenarios de testes, contém diversos casos de testes propostos para todo o desafio.
-Alguns casos de testes foram utilizados para o desenvolvimento da automação.
+
 
 ## Pre-requisito
 
@@ -19,7 +18,7 @@ Alguns casos de testes foram utilizados para o desenvolvimento da automação.
 ## Instalação
 
 1º - passo a ser executado para a instalação do projeto:
-Clonar o projeto: https://github.com/ngqqa/automation-back-cypress.git
+Clonar o projeto: https://github.com/ngqqa/automation-ouvidoria-front-cypress/tree/develop_ouvidoria
 
 2º - Acessar a pasta do projeto:
 cd automation-back-cypress
