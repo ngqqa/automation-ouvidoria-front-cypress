@@ -1,6 +1,7 @@
 # automation-ouvidoria-front-cypress
 
-# cy-api-testing
+# cypress-testing
+
 
 ![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)
 
