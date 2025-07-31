@@ -3,7 +3,8 @@
 # cy-api-testing
 
 ![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/f1339018-cc92-450f-a09b-099dfbd0c416" />
+<img width="755" height="302" alt="image" src="https://github.com/user-attachments/assets/af1e8885-8bc6-40bb-91fa-eaab0e288d1c" />
+
 
 
 Projeto de automação de testes para front-end com Cypress.
