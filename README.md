@@ -1,9 +1,8 @@
 # automation-ouvidoria-front-cypress
 
-# cy-api-testing
+# cy-front-testing
+<img width="446" height="207" alt="image" src="https://github.com/user-attachments/assets/42a00fed-4ced-4441-a75b-f918d50e3953" />
 
-![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)
-<img width="755" height="302" alt="image" src="https://github.com/user-attachments/assets/af1e8885-8bc6-40bb-91fa-eaab0e288d1c" />
 
 
 
