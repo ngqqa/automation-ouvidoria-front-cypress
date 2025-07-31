@@ -1,9 +1,9 @@
 # automation-ouvidoria-front-cypress
 
+# cy-front-testing
+<img width="446" height="207" alt="image" src="https://github.com/user-attachments/assets/42a00fed-4ced-4441-a75b-f918d50e3953" />
+
 # cypress-testing
-
-
-![CI](https://github.com/wlsf82/cy-api-testing-errors/actions/workflows/ci.yml/badge.svg)
 
 Projeto de automação de testes para front-end com Cypress.
 
