@@ -9,7 +9,6 @@ Projeto de automação de testes para front-end com Cypress.
 
 ## ATENÇÃO
 
-
 ## Pre-requisito
 
 É necessário ter Node.js e NPM/YARN instalados para executar este projeto.
@@ -19,7 +18,7 @@ Projeto de automação de testes para front-end com Cypress.
 ## Instalação
 
 1º - passo a ser executado para a instalação do projeto:
-Clonar o projeto: https://github.com/ngqqa/automation-ouvidoria-front-cypress/tree/develop_ouvidoria
+Clonar o projeto: https://github.com/ngqqa/automation-ouvidoria-front-cypress
 
 2º - Acessar a pasta do projeto:
 cd automation-back-cypress
